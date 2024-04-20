@@ -13,5 +13,5 @@ pytest-html==1.20.0
 yacs==0.1.6
 guzzle-sphinx-theme==0.7.11
 mock==3.0.5
-torch==0.3.1
+torch==2.2.0
 torchvision==0.2.0
