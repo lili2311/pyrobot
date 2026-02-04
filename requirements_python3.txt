@@ -1,11 +1,11 @@
-numpy>=1.17.0
+numpy>=1.22.2
 PyYAML>=3.11
 scipy>=1.2.0
 matplotlib>=2.2.2
 Pillow>=5.1.0
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 open3d_python==0.5.0.0
-scikit-learn==0.20.3
+scikit-learn==0.24.2
 absl-py==0.7.1
 pytest-cov==2.6.1
 pytest-html==1.20.0
